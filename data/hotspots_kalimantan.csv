@@ -1,0 +1,22 @@
+id,name,latitude,longitude,district,brightness_k,confidence,land_cover
+0,Tjilik Riwut Heliport (Base),-2.2240,113.9460,Kota Palangka Raya,0.0,Base,Heliport / Command Base
+1,Sebangau Peat Sanctuary,-2.3150,113.8920,Kota Palangka Raya,342.5,high,Taman Nasional Sebangau
+2,Kereng Bangkirai Canal Margin,-2.3850,113.8210,Kota Palangka Raya,328.1,nominal,Rawa Gambut Dalam
+3,Jabiren Raya Peat Corridor,-2.5210,114.0150,Kabupaten Pulang Pisau,351.4,high,Lahan Gambut Kering
+4,Kalawa Agricultural Buffer,-2.6100,114.0890,Kabupaten Pulang Pisau,335.8,nominal,Semak Belukar Rawa
+5,Kahayan Hilir Riverbank,-2.7420,114.1560,Kabupaten Pulang Pisau,360.2,high,Hutan Rawa Gambut
+6,Kapuas Barat Forest Flank,-2.8550,114.3120,Kabupaten Kapuas,339.7,nominal,Tepian Perkebunan
+7,Kapuas Murung Peat Margin,-2.9300,114.4500,Kabupaten Kapuas,348.0,high,Hutan Lindung Gambut
+8,Basarang Peat Drainage Canal,-2.7100,114.3800,Kabupaten Kapuas,331.6,nominal,Lahan Terbuka Gambut
+9,Kuala Kapuas Sub-District Border,-2.5500,114.4200,Kabupaten Kapuas,355.9,high,Semak Rawa Gambut
+10,Mantangai Deep Peat Block A,-2.3900,114.4800,Kabupaten Kapuas,364.7,high,Eks-PLG Sejuta Hektar
+11,Mantangai Upriver Swampland,-2.1800,114.3900,Kabupaten Kapuas,337.2,nominal,Hutan Gambut Sekunder
+12,Timpah Peat Ridge,-2.0500,114.2800,Kabupaten Kapuas,344.1,high,Lahan Rawa Terdegradasi
+13,Bukit Batu Forest Boundary,-1.9800,113.7200,Kota Palangka Raya,329.8,nominal,Hutan Dataran Rendah
+14,Tangkiling Nature Reserve Buffer,-2.0900,113.8100,Kota Palangka Raya,341.0,high,Taman Wisata Alam
+15,Rakumpit Northern Remote Peat,-1.8200,113.6500,Kota Palangka Raya,352.3,high,Hutan Lindung Rimba Terpencil
+16,Gohong River Confluence,-2.6700,114.1950,Kabupaten Pulang Pisau,346.5,high,Rawa Gambut Terbakar
+17,Tumbang Nusa Critical Corridor,-2.4350,114.1100,Kabupaten Pulang Pisau,368.4,high,Jalan Trans-Kalimantan Peat
+18,Buntoi Wetland Sector,-2.6250,114.2250,Kabupaten Pulang Pisau,333.0,nominal,Lahan Terlantar Rawa
+19,Dadahup Agro-Forest Border,-2.2800,114.5600,Kabupaten Kapuas,358.1,high,Lahan Aluvial Gambut
+20,Katingan Hulu Forest Edge,-1.7500,113.5200,Kabupaten Katingan,339.4,nominal,Hutan Produksi Terbatas
