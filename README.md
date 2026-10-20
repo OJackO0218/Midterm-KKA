@@ -1,7 +1,7 @@
 # Optimization of Water-Bombing Helicopter Flight Paths for Karhutla Hotspot Suppression
 
 > **Course:** Konsep Kecerdasan Artifisial (Artificial Intelligence Concepts - KKA)  
-> **Topic:** Midterm Project — Combinatorial Optimization & Local Search (Lecture 6)  
+> **Topic:** Midterm Project - Combinatorial Optimization & Local Search (Lecture 6)  
 > **Authors:** Informatics Engineering Student Team  
 
 ---
