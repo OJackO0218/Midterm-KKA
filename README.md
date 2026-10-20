@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Executive Summary
+## Summary
 
 During severe dry seasons in Indonesia (particularly in Central Kalimantan and Riau), peatland and forest fires (*Karhutla*) spread at alarming rates. The Aerial Firefighting Task Force (*Satgas Udara Penanggulangan Karhutla - BNPB*) deploys water-bombing helicopters (such as the Kamov Ka-32 or Sikorsky S-61) to drop water on active hotspots (*titik api*).
 
@@ -19,7 +19,7 @@ This repository formulates the mission as a **Travelling Salesperson Problem (TS
 
 ---
 
-## 🚁 Problem Formulation
+## Problem Formulation
 
 ```
                      [ Airbase (Tjilik Riwut) ]
@@ -42,7 +42,7 @@ This repository formulates the mission as a **Travelling Salesperson Problem (TS
 
 ---
 
-## 🗺️ Dataset Specification
+## Dataset Specification
 
 Real-world geographical coordinates modeled after high-risk peatland fire corridors in **Central Kalimantan (Palangka Raya, Pulang Pisau, and Kapuas)**:
 
@@ -67,7 +67,7 @@ Real-world geographical coordinates modeled after high-risk peatland fire corrid
 
 ---
 
-## 🧠 Implemented Models
+## Implemented Models
 
 ### 1. Random-Restart Hill Climbing (with 2-Opt)
 * **Neighborhood Search:** Explores all possible 2-Opt edge swaps (reversing sub-segments $[i, j]$).
@@ -90,7 +90,7 @@ Real-world geographical coordinates modeled after high-risk peatland fire corrid
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 karhutla_firefighter_project/
@@ -107,7 +107,7 @@ karhutla_firefighter_project/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Prerequisites
 Ensure Python 3.8+ is installed. Only `matplotlib` is required for visualization:
@@ -139,7 +139,7 @@ python main.py
 
 ---
 
-## 📊 Experimental Results (For Chapter 3)
+## Experimental Results (For Chapter 3)
 
 The algorithms were evaluated over **10 independent runs** on the 15-hotspot Karhutla scenario:
 
@@ -160,7 +160,7 @@ Optimized Global Tour    : 355.66 km  (72.6% fuel & flight-time reduction)
 
 ---
 
-## 💡 Key Discussion & Insights
+## Key Discussion & Insights
 
 1. **Solution Optimality:**  
    All three algorithms successfully discover the optimal global tour of **$355.66\text{ km}$**. Without optimization, random helicopter routing produces a chaotic path of over $1,300\text{ km}$.
@@ -171,7 +171,7 @@ Optimized Global Tour    : 355.66 km  (72.6% fuel & flight-time reduction)
 
 ---
 
-## 📖 References
+## References
 
 1. Russell, S., & Norvig, P. (2020). *Artificial Intelligence: A Modern Approach (4th ed.)*. Pearson. (Chapter 4 & 6: Search in Complex Environments).
 2. Badan Nasional Penanggulangan Bencana (BNPB). *Laporan Penanganan Darurat Bencana Kebakaran Hutan dan Lahan (Karhutla)*.
